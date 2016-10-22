@@ -16,8 +16,7 @@ There are 113 glyphs included:
     =*+-×÷/«<{[()]}>»
     abcdefghijklmnopqrstuvwxyz
     ABCDEFGHIJKLMNOPQRSTUVWXYZ
-    !@#%^&?§¤¢$£€¥©®
-    _,.;:"`~¨'·°\|¦¡Øø
+    _,.;:"¨`~'·!@#%^&?§¤¢$£€¥©®°\|¦¡Øø
 
 | Range         | Qty/Total | Description |
 | ------------- | --------- | ----------- |
