@@ -19,9 +19,10 @@ There are 113 glyphs included:
     !@#%^&?§¤¢$£€¥©®
     _,.;:"`~¨'·°\|¦¡Øø
 
-Range           Qty/Total   Description
-U+0020-U+007E    95/95      Basic Latin
-U+00A0-U+00FF    19/96      Latin-1 Supplement
+| Range         | Qty/Total | Description |
+| ------------- | --------- | ----------- |
+| U+0020-U+007E | 95/95     | Basic Latin |
+| U+00A0-U+00FF | 19/96     | Latin-1 Supplement |
 
 **Menu** currently exists only in _Regular_ style.
 
