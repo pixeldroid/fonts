@@ -7,13 +7,13 @@
 ## regular
 
 ![console regular font specimen][font-specimen]
+> _background photo:_ Space Marines Game Environment by HJ Media Studios <br>
+> (c) Nick Royer, Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0) <br>
+> https://www.flickr.com/photos/hjmediastudios/7539645014/in/album-72157626466584255/
 
 There are 113 glyphs included:
 
 ![console regular glyphs][font-glyphs]
-> _background photo:_ Space Marines Game Environment by HJ Media Studios <br>
-> (c) Nick Royer, Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0) <br>
-> https://www.flickr.com/photos/hjmediastudios/7539645014/in/album-72157626466584255/
 
 
 ### regular-mono
