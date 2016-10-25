@@ -2,7 +2,7 @@
 
 > see [FONTLOG.md][font-log] for more details.
 
-`.ttf` and `.fnt` files can be downloaded from the [releases][releases] page.
+`.otf`, `.ttf`, and `.fnt` files can be downloaded from the [releases][releases] page.
 
 ## regular
 
