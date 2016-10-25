@@ -24,7 +24,7 @@ Console is also available monospaced:
 
 ## license
 
-pixeldroid Console regular is licensed under the [Open Font License][ofl] (OFL).
+pixeldroid Console is licensed under the [Open Font License][ofl] (OFL).
 
 See [OFL.txt][license] and [OFL-FAQ.txt][license-faq] for details.
 
