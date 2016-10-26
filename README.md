@@ -2,7 +2,7 @@
 
 pixeldroid presents the following open source fonts for free use.
 
-`.ttf` and `.fnt` files can be downloaded from the [releases][releases] page.
+`.otf`, `.ttf`, and `.fnt` files can be downloaded from the [releases][releases] page.
 
 > pixeldroid fonts are licensed under the [Open Font License][ofl] (OFL).
 
