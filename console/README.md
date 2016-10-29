@@ -37,4 +37,4 @@ See [OFL.txt][license] and [OFL-FAQ.txt][license-faq] for details.
 [license]: OFL.txt "Open Font License"
 [license-faq]: OFL-FAQ.txt "Frequently Asked Questions about the Open Font License"
 [ofl]: http://scripts.sil.org/OFL "more about the Open Font License"
-[releases]: https://github.com/pixeldroid/fonts/releases/latest "Latest Releases"
+[releases]: https://github.com/pixeldroid/fonts/releases/ "pixeldroid font releases"

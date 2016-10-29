@@ -45,4 +45,4 @@ Many thanks to the following free font tools, which were used in the creation of
 [pentacom]: http://www.pentacom.jp/pentacom/
 [littera]: http://kvazars.com/littera/
 [fontforge]: http://fontforge.github.io/ "Free (libre) font editor for Windows, Mac OS X and GNU+Linux"
-[releases]: https://github.com/pixeldroid/fonts/releases/latest "Latest Releases"
+[releases]: https://github.com/pixeldroid/fonts/releases/ "pixeldroid font releases"

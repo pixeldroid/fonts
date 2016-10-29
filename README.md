@@ -36,4 +36,4 @@ pixeldroid presents the following open source fonts for free use.
 [specimen-console-regular]: console/docs/specimen.png "pixeldroid Console regular type specimen"
 [specimen-menu-regular]: menu/docs/specimen.png "pixeldroid Menu regular type specimen"
 [ofl]: http://scripts.sil.org/OFL "Open Font License"
-[releases]: https://github.com/pixeldroid/fonts/releases/latest "Latest Releases"
+[releases]: https://github.com/pixeldroid/fonts/releases/ "pixeldroid font releases"
