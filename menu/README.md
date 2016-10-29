@@ -2,7 +2,11 @@
 
 > see [FONTLOG.md][font-log] for more details.
 
+
+## downloads
+
 `.otf`, `.ttf`, and `.fnt` files can be downloaded from the [releases][releases] page.
+
 
 ## regular
 
@@ -11,6 +15,7 @@
 There are 113 glyphs included:
 
 ![menu regular glyphs][font-glyphs]
+
 
 ## license
 
