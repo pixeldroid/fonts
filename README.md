@@ -14,7 +14,7 @@ pixeldroid presents the following open source fonts for free use.
 
 **Console Regular** provides 113 glyphs, and is available proportionally spaced as well as monospaced:
 
-![console regular glyphs][glyphs-console-regular]
+![console regular][specimen-console-regular]
 
 
 ## menu
@@ -24,12 +24,12 @@ pixeldroid presents the following open source fonts for free use.
 
 **Menu Regular** provides 113 glyphs:
 
-![menu regular glyphs][glyphs-menu-regular]
+![menu regular][specimen-menu-regular]
 
 
 [font-console]: console/ "pixeldroid Console regular"
 [font-menu]: menu/ "pixeldroid Menu regular"
-[glyphs-console-regular]: console/docs/glyphs.png "pixeldroid Console regular glyphs"
-[glyphs-menu-regular]: menu/docs/glyphs.png "pixeldroid Menu regular glyphs"
+[specimen-console-regular]: console/docs/specimen.png "pixeldroid Console regular type specimen"
+[specimen-menu-regular]: menu/docs/specimen.png "pixeldroid Menu regular type specimen"
 [ofl]: http://scripts.sil.org/OFL "Open Font License"
 [releases]: https://github.com/pixeldroid/fonts/releases/latest "Latest Releases"
