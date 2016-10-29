@@ -1,4 +1,4 @@
-Copyright (c) pixeldroid (https://github.com/pixeldroid/fonts/menu),
+Copyright (c) pixeldroid (https://github.com/pixeldroid/fonts/),
 with Reserved Font Name: "Menu".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
