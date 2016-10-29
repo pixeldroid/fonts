@@ -3,7 +3,7 @@
 This file provides detailed information on the _pixeldroid Console_ font software.
 This information should be distributed along with the _pixeldroid Console_ fonts and any derivative works.
 
-Please see https://github.com/ellemenno/fonts/ for documentation, contributing, and releases of the font.
+Please see https://github.com/pixeldroid/fonts/ for documentation, contributing, and [releases][releases] of the font.
 
 
 ## Basic Font Information
@@ -45,3 +45,4 @@ Many thanks to the following free font tools, which were used in the creation of
 [pentacom]: http://www.pentacom.jp/pentacom/
 [littera]: http://kvazars.com/littera/
 [fontforge]: http://fontforge.github.io/ "Free (libre) font editor for Windows, Mac OS X and GNU+Linux"
+[releases]: https://github.com/pixeldroid/fonts/releases/latest "Latest Releases"
