@@ -15,9 +15,10 @@ pixeldroid presents the following open source fonts for free use.
 **Console Regular** provides 113 glyphs, and is available proportionally spaced as well as monospaced:
 
 ![console regular][specimen-console-regular]
-> _background photo:_ Space Marines Game Environment by HJ Media Studios <br>
-> (c) Nick Royer, Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0) <br>
-> https://www.flickr.com/photos/hjmediastudios/7539645014/in/album-72157626466584255/
+<blockquote><sup><sub>
+    <i>background:</i> Space Marines Game Environment by HJ Media Studios; &copy; Nick Royer, Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0) <br>
+    https://www.flickr.com/photos/hjmediastudios/7539645014/in/album-72157626466584255/
+</sub></sup></blockquote>
 
 
 ## menu
