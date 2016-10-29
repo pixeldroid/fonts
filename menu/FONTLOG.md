@@ -3,7 +3,7 @@
 This file provides detailed information on the _pixeldroid Menu_ font software.
 This information should be distributed along with the _pixeldroid Menu_ fonts and any derivative works.
 
-Please see https://github.com/ellemenno/fonts/menu for documentation, contributing, and releases of the font.
+Please see https://github.com/ellemenno/fonts/ for documentation, contributing, and releases of the font.
 
 
 ## Basic Font Information
@@ -23,7 +23,7 @@ There are 113 glyphs included:
 | U+0020-U+007E | 95/95     | Basic Latin |
 | U+00A0-U+00FF | 19/96     | Latin-1 Supplement |
 
-**Menu** currently exists only in _Regular_ style.
+**Menu** is currently only available in _Regular_ style.
 
 
 ## ChangeLog
@@ -37,7 +37,7 @@ There are 113 glyphs included:
 Many thanks to the following free font tools, which were used in the creation of this font:
 
 * [BitFontMaker2][bitfont2] from [pentacom.jp][pentacom] - to draw fonts and create TrueType files
-* [Littera][littera] - to convert `.ttf` to `.font` bitmap glyphs
+* [Littera][littera] - to convert `.ttf` to `.fnt` bitmap glyphs
 * [FontForge][fontforge] - to insert additional meta data and licensing
 
 
