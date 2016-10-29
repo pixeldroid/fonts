@@ -2,7 +2,11 @@
 
 > see [FONTLOG.md][font-log] for more details.
 
+
+## downloads
+
 `.otf`, `.ttf`, and `.fnt` files can be downloaded from the [releases][releases] page.
+
 
 ## regular
 
@@ -22,6 +26,7 @@ There are 113 glyphs included:
 Console is also available monospaced:
 
 ![console regular mono font specimen][font-specimen-mono]
+
 
 ## license
 
