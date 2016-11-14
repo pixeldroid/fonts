@@ -9,6 +9,7 @@ pixeldroid presents the following open source fonts for free use.
 - [console](#console)
 - [menu](#menu)
 
+---
 
 ## botic
 > [pixeldroid/fonts/botic][font-botic]
