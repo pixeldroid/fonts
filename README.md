@@ -1,10 +1,15 @@
 # pixeldroid fonts
 
-pixeldroid presents the following open source fonts for free use.
-
+> `.otf`, `.ttf`, and `.fnt` files can be downloaded from the [releases][releases] page. <br>
 > pixeldroid fonts are licensed under the [Open Font License][ofl] (OFL).
 
-`.otf`, `.ttf`, and `.fnt` files can be downloaded from the [releases][releases] page.
+pixeldroid presents the following open source fonts for free use.
+
+- [botic](#botic)
+- [console](#console)
+- [menu](#menu)
+
+<br>
 
 
 ## botic
